@@ -43,16 +43,13 @@ export default {
                 </ul>
             </div>
             <div class="col-6 col-md">
-                <h5>Resources</h5>
+                <h5>文章</h5>
                 <ul class="list-unstyled text-small">
-                    <li><a class="link-secondary text-decoration-none" href="#">Resource name</a></li>
-                    <li><a class="link-secondary text-decoration-none" href="#">Resource</a></li>
-                    <li><a class="link-secondary text-decoration-none" href="#">Another resource</a></li>
-                    <li><a class="link-secondary text-decoration-none" href="#">Final resource</a></li>
+                    <li><a class="link-secondary text-decoration-none" href="#">Vue基礎</a></li>
                 </ul>
             </div>
             <div class="col-6 col-md">
-                <h5>Resources</h5>
+                <h5>關於我</h5>
                 <ul class="list-unstyled text-small">
                     <li><a class="link-secondary text-decoration-none" href="#">Business</a></li>
                     <li><a class="link-secondary text-decoration-none" href="#">Education</a></li>
@@ -61,7 +58,7 @@ export default {
                 </ul>
             </div>
             <div class="col-6 col-md">
-                <h5>About</h5>
+                <h5>聯絡方式</h5>
                 <ul class="list-unstyled text-small">
                     <li><a class="link-secondary text-decoration-none" href="#">Team</a></li>
                     <li><a class="link-secondary text-decoration-none" href="#">Locations</a></li>

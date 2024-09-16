@@ -39,7 +39,7 @@ body {
 
 .right-container {
   width: 20%;
-  height: 1000px;
+  /* height: 1000px; */
   background-color: antiquewhite;
 }
 
