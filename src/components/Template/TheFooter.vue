@@ -45,7 +45,8 @@ export default {
             <div class="col-6 col-md">
                 <h5>文章</h5>
                 <ul class="list-unstyled text-small">
-                    <li><a class="link-secondary text-decoration-none" href="#">Vue基礎</a></li>
+                    <li>
+                        <router-link class="link-secondary text-decoration-none" to="/vue-basic">Vue基礎</router-link></li>
                 </ul>
             </div>
             <div class="col-6 col-md">

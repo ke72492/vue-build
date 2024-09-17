@@ -20,6 +20,33 @@ export default {
                 src="https://www.notion.so/images/page-cover/met_terracotta_funerary_plaque.jpg"
                 style="object-position:center 9.999999999999998%">
             <div class="page-header-icon page-header-icon-with-cover"><span class="icon">🔉</span></div>
+
+            <ol class="breadcrumb my-5">
+                <li class="breadcrumb-item"><router-link to="/">首頁</router-link></li>
+                <li class="breadcrumb-item"><router-link to="/vue-basic">Vue基礎</router-link></li>
+            </ol>
+
+            <div class="col-md-3 col-lg-2 d-md-block bg-light border my-5">
+                <ul class="nav flex-column">
+                    <div class="nav-item">目錄</div>
+                    <li class="nav-item">
+                        <a class="nav-link text-decoration-none" href="#74200fbd-c3ea-4f78-af29-6e17a985c339">前言</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-decoration-none" href="#944dafdf-af57-4eb6-861a-4dea1b34f3fa">Vue的使用</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-decoration-none" href="#c33d2a88-3c9b-47c9-b316-326f084dee02">Vue條件判斷</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-decoration-none" href="#b5ba5c6e-3e5e-4530-930b-acdce65ff9b6">Vue的for迴圈寫法</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-decoration-none" href="#7bd686d0-4e84-410d-91e1-d7ab2bff1b31">總結</a>
+                    </li>
+                </ul>
+            </div>
+
             <h1 class="page-title">Vue基礎</h1>
             <p class="page-description"></p>
         </header>

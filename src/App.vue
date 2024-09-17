@@ -21,10 +21,10 @@ export default {
     <RouterLink to="/about">About</RouterLink> -->
   </header>
   <main class="main-container d-flex">
-    <div class="my-page">
+    <div :class="{'my-page': true, 'w-100': $route.name === 'home'}">
       <RouterView />
     </div>
-    <div class="right-container"></div>
+    <div v-if="$route.name !== 'home'" class="right-container"></div>
   </main>
   <footer>
     <TheFooter></TheFooter>

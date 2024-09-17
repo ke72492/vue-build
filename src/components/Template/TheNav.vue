@@ -1,6 +1,6 @@
 <template>
     <div class="nav">
-      <div class="icon"></div>
+      <router-link to="/" class="icon"></router-link>
       <div class="nav-group d-flex">
         <div class="nav-btn dropdown">
           <a href="#" class="nav-text dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
